@@ -1,3 +1,5 @@
+// 정수 자료형
+
 package main;
 
 public class Ex4 {

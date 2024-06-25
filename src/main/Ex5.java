@@ -1,3 +1,5 @@
+// 문자 자료형
+
 package main;
 
 public class Ex5 {

@@ -1,3 +1,5 @@
+// 변수선언 및 사용
+
 package main;
 
 public class Ex1 {

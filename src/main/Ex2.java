@@ -1,3 +1,5 @@
+// 변수 초기화
+
 package main;
 
 public class Ex2 {

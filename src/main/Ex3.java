@@ -1,3 +1,5 @@
+// 변수 이름 정하기
+
 package main;
 
 public class Ex3 {
