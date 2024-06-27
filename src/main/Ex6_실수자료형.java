@@ -2,7 +2,7 @@
 
 package main;
 
-public class Ex06 {
+public class Ex6_실수자료형 {
 
 	public static void main(String[] args) {
 

@@ -2,7 +2,7 @@
 
 package main;
 
-public class Ex2 {
+public class Ex2_변수초기화 {
 
 	public static void main(String[] args) {
 

@@ -2,7 +2,7 @@
 
 package main;
 
-public class Ex8 {
+public class Ex8_상수만들기 {
 
 	public static void main(String[] args) {
 

@@ -2,7 +2,7 @@
 
 package main;
 
-public class Ex3 {
+public class Ex3_변수이름정하기 {
 
 	public static void main(String[] args) {
 		

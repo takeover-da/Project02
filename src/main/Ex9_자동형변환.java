@@ -2,7 +2,7 @@
 
 package main;
 
-public class Ex9 {
+public class Ex9_자동형변환 {
 
 	public static void main(String[] args) {
 

@@ -2,7 +2,7 @@
 
 package main;
 
-public class Ex4 {
+public class Ex4_정수자료형 {
 
 	public static void main(String[] args) {
 

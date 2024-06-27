@@ -2,7 +2,7 @@
 
 package main;
 
-public class Ex1 {
+public class Ex1_변수선언및사용 {
 
 	public static void main(String[] args) {
 	

@@ -2,7 +2,7 @@
 
 package main;
 
-public class Ex10 {
+public class Ex10_강제형변환 {
 
 	public static void main(String[] args) {
 
